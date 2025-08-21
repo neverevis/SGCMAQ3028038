@@ -1,0 +1,7 @@
+#Tomcat
+/opt/apache-tomcat10
+
+#Commit & Push
+
+git config --globa user.name "neverevis"
+git config --globa user.email "milan.b.dev@gmail.com"
